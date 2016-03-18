@@ -14,3 +14,5 @@ Credits:
 		jquery.scrolly (n33.co)
 		jquery.scrollzer (n33.co)
 		Skel (skel.io)
+
+No copyright intended.
