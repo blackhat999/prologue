@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/hakr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://0b00000000.me
+  * I am hakr (https://keybase.io/hakr) on keybase.
+  * I have a public key with fingerprint 35F4 629D 4217 ADBE 6415  5638 3C3D DA58 C916 8B6A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d95288c7093b022a236fff0787f51d451236e4e8ad6369471a8ac452de7801270a",
+            "fingerprint": "35f4629d4217adbe641556383c3dda58c9168b6a",
+            "host": "keybase.io",
+            "key_id": "3c3dda58c9168b6a",
+            "kid": "0101d95288c7093b022a236fff0787f51d451236e4e8ad6369471a8ac452de7801270a",
+            "uid": "9753835fd39764f254097edb985bed19",
+            "username": "hakr"
+        },
+        "service": {
+            "hostname": "0b00000000.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1465958879,
+    "expire_in": 157680000,
+    "prev": "0d8c695ec5d1411793f36e98b5a932f8a13aa0e5db30d867a1448bb874e2b962",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSBRRGF5b71Dkg0VXbB5tsTkzc2bO2YfuYdCiPWQWReOZOWe2yZpZ
+Z8btYhLVS23RtnQTooiCbtAFLLqAoGlqRQQRSFjGmkmWEJEg+1QzYm89dl4O//9/
+3/d//8/fMzMcKs3Lflw7XHKsvCHvVdeZ5lB9Q9enFk6z6X4u2sI1sqmP7abM9dRG
+k3JRjgc8oBgKCOkKj0WNFwQiiLJhGLyCFAMCKkHgJ5jEEKGyKGNJAQQRXYICZQri
+gaDwhItwhmnFmZNwTMvzZUVoSLKAqSQAhVCNyRKAUBaRqIuUEoh0DGSkyQFxp+0G
+DN+cRlxWZdp+zg/UKXv/wP9n381TcliBvjloUBErsmQIUOKxwqiGEdQYBTgAusyx
+yB7mo3eSRodrjXB+JmnqLFhqMMV0ldf46VflxxEu4dierdu7A6LnJaIB09ufCKB7
+maZOi6iaaVF/hz4hyRzXtC0uCnyk7pmBKpBkiCFCCo5wbF/CdJhqBgioyChoFbRh
+yaA7RbqMIdMhBRIAChYNfwsYaZBgUTAQASIhPINUE32orBAgSUjTkCIxQcOywAVj
+NVk2FxV8myTuS7pm3CJes8O41med2/NDeaWhwoIZwW2FSktm/72448PFoZRhVJ/6
+3DdvqDXSNLRoYs3W3ODlysWZifzDsYc1mdDgh5GiyXquoKWrpjB/xeCX7m1Pb+Tu
+u2/VoXmPUjuyLzarD4wTM5df2nj0Tdo+3XRgXUVJWfrO+i2Tr6X2H09qBz6Un421
+LR65N7BrtLtzLH247vcT/DuVl5z7rn94fmZVmbUyldyyoSI+dr64I91xqD937Hby
+0dUJdeHS6MGMW3dl0/dX77/Oeh6OJc4l60Z6X865dvNitXXECfNSz7cs/77nVu3H
+X7d/je4bX+a23zxZkehb0tBR1Ta+rLf4ePmFGQuz0buVtZNFP5+uX1Cfu35wbCA8
+uuLslfbxT+djfY/vVK8u+gNAD0F1
+=ysOu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hakr
+
+==================================================================
